@@ -13,32 +13,24 @@ InSAR을 통한 지표 변위 분석 연구, SAR-EO 이미지 매칭 연구를 �
 
 ### 🎓 Education
 
-[#mortar_board-education]
-
-- [학위과정] in [학과명], [학교명] `[YYYY.MM] ~ [YYYY.MM]`
+- B.S. in Geoinformatic Engineering & Computer Science (Double Major), Inha University `2021.03 ~ 2027.02 (expected)`
+- Undergraduate Researcher, Image Engineering Lab (Prof. Taejung Kim), Inha University
 
 ### 🔭 Research Projects
 
-[#-research-projects]
-
-- **InSAR 기반 지표 변위 분석** — [연구실명], `[YYYY.MM] ~ [YYYY.MM]`
-  - [Sentinel-1 등] SAR 위성 영상을 활용한 InSAR 처리로 [지반침하/산사태/화산 등 관측 대상]의 시계열 변위 관측
-  - 사용 툴: [SNAP / GAMMA / MATLAB 등]
-- **SAR-EO 이미지 매칭 연구** *(진행중)* — [연구실명], `[YYYY.MM] ~ 현재`
+- **InSAR 기반 지표 변위 분석** — Image Engineering Lab, `[2026.03] ~ [2026.06]`
+  - [Sentinel-1] SAR 위성 영상을 활용한 InSAR 처리(SBAS, D,PS - InSAR)로 지반변위 예측의 현실성 검토 및 기하정보 적용 가능성 탐구
+- **SAR-EO 이미지 매칭 연구** — Image Engineering Lab, `[2026.07] ~ [2026.08]`
   - 이종 센서(SAR-광학) 영상 간 특징점 기반 정합을 위해 **RoMa**, **RIFT** 알고리즘 적용 및 성능 비교
-  - 목표: [재난 대응 / 변화탐지 / 정밀 지오레퍼런싱 등 목적]
+  - 목표: 정밀 지오레퍼런싱
 
 ### 🏆 Awards
 
-[#-awards]
-
-- 🥇 **GPS 위성 기반 버스 자동환승 시스템** — [공모전명], [수상 등급] `[YYYY.MM]`
+- 🥇 **GPS 위성 기반 버스 자동환승 시스템** — 2025 스페이스 해커톤, 우수상 `[2025]`
   - GPS 위성 측위 데이터를 활용해 환승 정류장 자동 인식 및 환승 처리를 자동화하는 시스템 설계
-  - 담당 역할: [알고리즘 설계 / 백엔드 / 데이터 처리 등]
+  - 담당 역할: 백엔드 로직 설계
 
 ### 😄 Interests
-
-[#-interests]
 
 - SAR/InSAR 기반 지표 변위 및 재해 관측
 - 이종 센서(SAR-EO) 영상 정합 (Image Matching / Registration)
