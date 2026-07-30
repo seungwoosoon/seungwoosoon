@@ -91,6 +91,3 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 - TEPS ``
 
 ---
-
-[![Seungwoo's github stats](https://github-readme-stats.vercel.app/api?username=seungwoosoon&show_icons=true&theme=tokyonight)](https://github.com/seungwoosoon)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwoosoon&layout=compact&theme=tokyonight)](https://github.com/seungwoosoon)
