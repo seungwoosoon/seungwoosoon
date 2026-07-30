@@ -1,13 +1,9 @@
 # Hi, I'm Seungwoo Son 👋 
 **Satellite Image & Geospatial Data Processing**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungwoosoon&count_bg=%2300AEEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0086C9&height=250&section=header&text=Seungwoo%20Son&fontSize=60&fontColor=ffffff&desc=Satellite%20Image%20%26%20Geospatial%20Data%20Processing&descAlignY=65)
-
 ## 📫 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[이메일주소])](mailto:[이메일주소])
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmddn0927@gmail.com)](mailto:tmddn0927@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/seungwoosoon)](https://github.com/seungwoosoon)
 [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=[블로그/포트폴리오 링크])]([블로그/포트폴리오 링크])
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=[LinkedIn 링크])]([LinkedIn 링크])
