@@ -15,7 +15,7 @@ InSAR을 통한 지표 변위 분석 연구, SAR-EO 이미지 매칭 연구를 �
 
 - B.S. in Geoinformatic Engineering & Computer Science (Double Major), Inha University `2021.03 ~ 2027.02 (expected)`
 
-### 🎓 Internship
+### Internship
 
 - Undergraduate Researcher, Image Engineering Lab (Prof. Taejung Kim), Inha University
 
