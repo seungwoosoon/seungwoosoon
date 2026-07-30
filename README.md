@@ -40,13 +40,11 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
   - MODIS EVI, 강수량, 기온, SMAP 토양수분, VOD 등 다변량 시계열 자료로 county 단위 옥수수 수확량을 Linear/Ridge/Lasso 회귀 및 PCA 기반 차원축소를 통해 예측 (R² 0.79)
   - 광학(ATM)·레이더(L-band) 변수를 결합해 Softmax/Random Forest 기반 토지피복 분류 수행, 변수 조합별 분류 성능 비교분석
   - Tech: `Python` `scikit-learn` `PCA`
-  - [🔗 Repo 링크]
 
 - **공간분석 기반 산불 감시 관제탑 최적 입지 선정** — 공간분석 수업 프로젝트, `[2025.S2]`
   - 등산로 주변 인공화재 위험도를 Fuzzy 로직(MATLAB)으로 정량화하고, DEM 기반 지형분석으로 관제탑 후보지 도출
   - Viewshed 분석과 화재위험도 격자의 교차분석을 통해 감시 효율이 높은 후보지 순위 산정
   - Tech: `ArcGIS` `MATLAB`
-  - [🔗 Repo 링크]
 
 ### 🏆 Awards
 
@@ -86,6 +84,11 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
+### 📜 Certificates
+
+- SQLD (SQL 개발자) `[2025.09]`
+- TEPS ``
 
 ## Additional Information
 
