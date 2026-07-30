@@ -51,9 +51,12 @@ InSAR을 통한 지표 변위 분석 연구, SAR-EO 이미지 매칭 연구를 �
 
 ![GDAL](https://img.shields.io/badge/GDAL-4CAE4C?style=flat-square)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square)
 ![SNAP](https://img.shields.io/badge/SNAP-0086C9?style=flat-square)
+![ISCE2](https://img.shields.io/badge/ISCE2-3D3D3D?style=flat-square)
+![MintPy](https://img.shields.io/badge/MintPy-006747?style=flat-square)
+![StaMPS](https://img.shields.io/badge/StaMPS-8B4513?style=flat-square)
 ![Rasterio](https://img.shields.io/badge/Rasterio-2E7D32?style=flat-square)
-![ARCGIS](https://img.shields.io/badge/Rasterio-2E7D32?style=flat-square)
 
 ### 📚 ML/DL & Data Stacks
 
