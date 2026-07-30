@@ -8,8 +8,8 @@
 
 ## About Me
 
-위성 영상(SAR/EO)데이터를 다루며, SAR 영상처리에 관심이 많은 데이터 처리 엔지니어입니다.
-InSAR을 통한 지표 변위 분석 연구, SAR-EO 이미지 매칭 연구를 수행하였습니다
+I am a data processing engineer who works with satellite imagery (SAR/EO) and has a strong interest in SAR image processing.
+
 
 ### 🎓 Education
 
@@ -19,13 +19,33 @@ InSAR을 통한 지표 변위 분석 연구, SAR-EO 이미지 매칭 연구를 �
 
 - Undergraduate Researcher, Image Engineering Lab (Prof. Taejung Kim), Inha University
 
-### 🔭 Research Projects
+### 🔭 Research Projects in Lab (Private)
 
 - **InSAR 기반 지표 변위 분석** — Image Engineering Lab, `[2026.03] ~ [2026.06]`
-  - [Sentinel-1] SAR 위성 영상을 활용한 InSAR 처리(SBAS, D,PS - InSAR)로 지반변위 예측의 현실성 검토 및 기하정보 적용 가능성 탐구
+  - [Sentinel-1] SAR 위성 영상을 활용해 mintpy stamps isce2와 같은 툴을 사용한 InSAR 처리(SBAS, D,PS - InSAR)로 지반변위 예측의 현실성 검토 및 기하정보 적용 가능성 탐구
 - **SAR-EO 이미지 매칭 연구** — Image Engineering Lab, `[2026.07] ~ [2026.08]`
   - 이종 센서(SAR-광학) 영상 간 특징점 기반 정합을 위해 **RoMa**, **RIFT** 알고리즘 적용 및 성능 비교
   - 목표: 정밀 지오레퍼런싱
+  
+### 🔭 Personal Projects (Public)
+
+- **SAR 편파 데이터 기반 벼 도복 판정 (RVI 시계열 분석)** — 위성영상처리 수업 프로젝트, `[YYYY.MM]`
+  - Sentinel-1 SAR 편파 데이터로 산출한 RVI(Radar Vegetation Index) 시계열을 이용해 태풍 전후 벼 도복 피해를 자동 판정하는 알고리즘 구현
+  - 평시 변동성 대비 임계값 기반 도복 조건을 설정하고, 위도 보정을 반영한 픽셀 면적 계산으로 실제 피해 면적(ha)까지 정량화
+  - Tech: `Python` `Rasterio` `NumPy`
+  - [🔗 Repo 링크]
+
+- **위성·기상·토양 자료 기반 옥수수 수확량 예측 및 토지피복 분류** — 공간정보 인공지능 프로젝트, `2025.09 ~ 2025.12`
+  - MODIS EVI, 강수량, 기온, SMAP 토양수분, VOD 등 다변량 시계열 자료로 county 단위 옥수수 수확량을 Linear/Ridge/Lasso 회귀 및 PCA 기반 차원축소를 통해 예측 (R² 0.79)
+  - 광학(ATM)·레이더(L-band) 변수를 결합해 Softmax/Random Forest 기반 토지피복 분류 수행, 변수 조합별 분류 성능 비교분석
+  - Tech: `Python` `scikit-learn` `PCA`
+  - [🔗 Repo 링크]
+
+- **공간분석 기반 산불 감시 관제탑 최적 입지 선정** — 공간분석 수업 프로젝트, `[YYYY.MM]`
+  - 등산로 주변 인공화재 위험도를 Fuzzy 로직(MATLAB)으로 정량화하고, DEM 기반 지형분석으로 관제탑 후보지 도출
+  - Viewshed 분석과 화재위험도 격자의 교차분석을 통해 감시 효율이 높은 후보지 순위 산정
+  - Tech: `ArcGIS` `MATLAB`
+  - [🔗 Repo 링크]
 
 ### 🏆 Awards
 
