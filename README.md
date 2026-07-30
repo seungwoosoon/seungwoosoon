@@ -1,12 +1,12 @@
-# Hi, I'm Seungwoo Son 👋 
+# Hi, I'm Seungwoo Son 
 **Satellite Image & Geospatial Data Processing**
 
-## 📫 Contact
+## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmddn0927@gmail.com)](mailto:tmddn0927@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/seungwoosoon)](https://github.com/seungwoosoon)
 
-## 🔭 About Me
+## About Me
 
 위성 영상(SAR/EO)데이터를 다루며, SAR 영상처리에 관심이 많은 데이터 처리 엔지니어입니다.
 InSAR을 통한 지표 변위 분석 연구, SAR-EO 이미지 매칭 연구를 수행하였습니다
@@ -26,17 +26,17 @@ InSAR을 통한 지표 변위 분석 연구, SAR-EO 이미지 매칭 연구를 �
 
 ### 🏆 Awards
 
-- 🥇 **GPS 위성 기반 버스 자동환승 시스템** — 2025 스페이스 해커톤, 우수상 `[2025]`
+- **GPS 위성 기반 버스 자동환승 시스템** — 2025 스페이스 해커톤, 우수상 `[2025]`
   - GPS 위성 측위 데이터를 활용해 환승 정류장 자동 인식 및 환승 처리를 자동화하는 시스템 설계
   - 담당 역할: 백엔드 로직 설계
 
-### 😄 Interests
+### Interests
 
 - SAR/InSAR 기반 지표 변위 및 재해 관측
 - 이종 센서(SAR-EO) 영상 정합 (Image Matching / Registration)
 - 위성 항법(GNSS/GPS) 기반 시공간 데이터 처리
 
-## ⚡ Skills
+## Skills
 
 ### 💻 Programming Language
 
