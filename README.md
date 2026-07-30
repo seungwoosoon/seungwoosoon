@@ -5,8 +5,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmddn0927@gmail.com)](mailto:tmddn0927@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/seungwoosoon)](https://github.com/seungwoosoon)
-[![Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=[블로그/포트폴리오 링크])]([블로그/포트폴리오 링크])
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=[LinkedIn 링크])]([LinkedIn 링크])
 
 ## 🔭 About Me
 
