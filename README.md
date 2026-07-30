@@ -27,7 +27,7 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 - **SAR-EO 이미지 매칭 연구** — Image Engineering Lab, `[2026.07] ~ [2026.08]`
   - 이종 센서(SAR-광학) 영상 간 특징점 기반 정합을 위해 **RoMa**, **RIFT** 알고리즘 적용 및 성능 비교
   - 목표: 정밀 지오레퍼런싱
-  - Tech: `Python` `RoMa` `C++ - RIFT (fourier transform, Gabor Filter, Phase Congereuncy)`
+  - Tech: `Python-RoMa` `C++-RIFT (fourier transform, Gabor Filter, Phase Congereuncy)`
 ### 🔭 Personal Projects (Public)
 
 - **SAR 편파 데이터 기반 벼 도복 판정 (RVI 시계열 분석)** — 위성영상처리 수업 프로젝트, `[2026.S1]`
