@@ -90,10 +90,6 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 - SQLD (SQL 개발자) `[2025.09]`
 - TEPS ``
 
-## Additional Information
-
-If you want to see more details, here is my [**CV 📥**]([CV PDF 링크, 예: https://github.com/seungwoosoon/CV/blob/main/seungwoo_cv.pdf])
-
 ---
 
 [![Seungwoo's github stats](https://github-readme-stats.vercel.app/api?username=seungwoosoon&show_icons=true&theme=tokyonight)](https://github.com/seungwoosoon)
