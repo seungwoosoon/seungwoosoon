@@ -30,7 +30,7 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 ### 🔭 Personal Projects (Public)
 
 - **SAR 편파 데이터 기반 벼 도복 판정 (RVI 시계열 분석)** — 위성영상처리 수업 프로젝트, `[YYYY.MM]`
-  - Sentinel-1 SAR 편파 데이터로 산출한 RVI(Radar Vegetation Index) 시계열을 이용해 태풍 전후 벼 도복 피해를 자동 판정하는 알고리즘 구현
+  - Sentinel-1 SAR VV VH 편파 데이터로 산출한 RVI(Radar Vegetation Index) 시계열을 이용해 태풍 전후 벼 도복 피해를 자동 판정하는 알고리즘 구현
   - 평시 변동성 대비 임계값 기반 도복 조건을 설정하고, 위도 보정을 반영한 픽셀 면적 계산으로 실제 피해 면적(ha)까지 정량화
   - Tech: `Python` `Rasterio` `NumPy`
   - [🔗 Repo 링크]
