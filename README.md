@@ -19,7 +19,7 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 
 - Undergraduate Researcher, Image Engineering Lab (Prof. Taejung Kim), Inha University
 
-### 🔭 Research Projects in Lab (Private)
+### Research Projects in Lab (Private)
 
 - **InSAR 기반 지표 변위 분석** — Image Engineering Lab, `[2026.03] ~ [2026.06]`
   - [Sentinel-1] SAR 위성 영상을 활용한 InSAR 처리(SBAS, D,PS - InSAR)로 지반변위 예측의 현실성 검토 및 기하정보 적용 가능성 탐구
@@ -28,7 +28,7 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
   - 이종 센서(SAR-광학) 영상 간 특징점 기반 정합을 위해 **RoMa**, **RIFT** 알고리즘 적용 및 성능 비교
   - 목표: 정밀 지오레퍼런싱
   - Tech: `Python-RoMa` `C++-RIFT (fourier transform, Gabor Filter, Phase Congereuncy)`
-### 🔭 Personal Projects (Public)
+### Personal Projects (Public)
 
 - **SAR 편파 데이터 기반 벼 도복 판정 (RVI 시계열 분석)** — 위성영상처리 수업 프로젝트, `[2026.S1]`
   - Sentinel-1 SAR VV VH 편파 데이터로 산출한 RVI(Radar Vegetation Index) 시계열을 이용해 태풍 전후 벼 도복 피해를 자동 판정하는 알고리즘 구현
@@ -46,7 +46,7 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
   - Viewshed 분석과 화재위험도 격자의 교차분석을 통해 감시 효율이 높은 후보지 순위 산정
   - Tech: `ArcGIS` `MATLAB`
 
-### 🏆 Awards
+### Awards
 
 - **GPS 위성 기반 버스 자동환승 시스템** — 2025 스페이스 해커톤, 우수상 `[2025]`
   - GPS 위성 측위 데이터를 활용해 환승 정류장 자동 인식 및 환승 처리를 자동화하는 시스템 설계
