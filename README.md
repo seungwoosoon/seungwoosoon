@@ -1,4 +1,4 @@
-# Hi, I'm Seungwoo Son 
+# Hi, I'm Seungwoo Son
 **Satellite Image & Geospatial Data Processing**
 
 ## Contact
@@ -10,8 +10,7 @@
 
 I am a data processing engineer who works with satellite imagery (SAR/EO) and has a strong interest in SAR image processing.
 
-
-### 🎓 Education
+### Education
 
 - B.S. in Geoinformatic Engineering & Computer Science (Double Major), Inha University `2021.03 ~ 2027.02 (expected)`
 
@@ -21,17 +20,18 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 
 ### Research Projects in Lab (Private)
 
-- **InSAR 기반 지표 변위 분석** — Image Engineering Lab, `[2026.03] ~ [2026.06]`
-  - [Sentinel-1] SAR 위성 영상을 활용한 InSAR 처리(SBAS, D,PS - InSAR)로 지반변위 예측의 현실성 검토 및 기하정보 적용 가능성 탐구
-  - Tech: `Python-MintPy` `MATLAB-STAMPS` `ISCE2` 
-- **SAR-EO 이미지 매칭 연구** — Image Engineering Lab, `[2026.07] ~ [2026.08]`
-  - 이종 센서(SAR-광학) 영상 간 특징점 기반 정합을 위해 **RoMa**, **RIFT** 알고리즘 적용 및 성능 비교
+- **InSAR 기반 지표 변위 분석** — Image Engineering Lab, `2026.03 ~ 2026.06`
+  - Sentinel-1 SAR 위성 영상을 활용한 InSAR 처리(SBAS, DInSAR)로 지반변위 예측의 현실성 검토 및 기하정보 적용 가능성 탐구
+  - Tech: `Python-MintPy` `MATLAB-STAMPS` `ISCE2`
+- **SAR-EO 이미지 매칭 연구** — Image Engineering Lab, `2026.07 ~ 2026.08`
+  - 이종 센서(SAR-광학) 영상 간 특징점 기반 정합을 위해 RoMa, RIFT 알고리즘 적용 및 성능 비교
   - 목표: 정밀 지오레퍼런싱
-  - Tech: `Python-RoMa` `C++-RIFT (fourier transform, Gabor Filter, Phase Congereuncy)`
+  - Tech: `Python-RoMa` `C++-RIFT (Fourier Transform, Gabor Filter, Phase Congruency)`
+
 ### Personal Projects (Public)
 
-- **SAR 편파 데이터 기반 벼 도복 판정 (RVI 시계열 분석)** — 위성영상처리 수업 프로젝트, `[2026.S1]`
-  - Sentinel-1 SAR VV VH 편파 데이터로 산출한 RVI(Radar Vegetation Index) 시계열을 이용해 태풍 전후 벼 도복 피해를 자동 판정하는 알고리즘 구현
+- **SAR 편파 데이터 기반 벼 도복 판정 (RVI 시계열 분석)** — 위성영상처리 수업 프로젝트, `2026.S1`
+  - Sentinel-1 SAR VV/VH 편파 데이터로 산출한 RVI(Radar Vegetation Index) 시계열을 이용해 태풍 전후 벼 도복 피해를 자동 판정하는 알고리즘 구현
   - 평시 변동성 대비 임계값 기반 도복 조건을 설정하고, 위도 보정을 반영한 픽셀 면적 계산으로 실제 피해 면적(ha)까지 정량화
   - Tech: `Python` `Rasterio` `NumPy`
   - [code](https://github.com/seungwoosoon/RVI)
@@ -43,28 +43,32 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
   - Tech: `Python` `scikit-learn` `PCA`
   - [report](https://github.com/seungwoosoon/seungwoosoon/blob/main/2025%202학기%20공간정보%20인공지능%20프로젝트%20보고서.pdf)
 
-- **공간분석 기반 산불 감시 관제탑 최적 입지 선정** — 공간분석 수업 프로젝트, `[2025.S2]`
+- **공간분석 기반 산불 감시 관제탑 최적 입지 선정** — 공간분석 수업 프로젝트, `2025.S2`
   - 등산로 주변 인공화재 위험도를 Fuzzy 로직(MATLAB)으로 정량화하고, DEM 기반 지형분석으로 관제탑 후보지 도출
   - Viewshed 분석과 화재위험도 격자의 교차분석을 통해 감시 효율이 높은 후보지 순위 산정
   - Tech: `ArcGIS` `MATLAB`
- 
 
+- **AI 질병탐지 및 디지털 트윈 기반 스마트팜 품질관리 시스템 (Farm Link)** — 팀 프로젝트, `2025.07.18 ~ 2025.08.25`
+  - 실시간 환경 센서 데이터와 AI 기반 생육 진단(YOLO 병해·영양 결핍 탐지, 시계열 생장 예측)을 결합한 스마트팜 품질관리 시스템 개발
+  - 백엔드 설계·배포 및 Unity 기반 Digital Twin 시각화 담당
+  - Tech: `Java/Spring` `MQTT` `Docker` `Unity`
+  - [code](https://github.com/seungwoosoon/SmartFarmProject)
 
 ### Awards
 
-- **GPS 위성 기반 버스 자동환승 시스템** — 2025 스페이스 해커톤, 우수상 `[2025]`
+- **GPS 위성 기반 버스 자동환승 시스템** — 2025 스페이스 해커톤, 우수상 `2025`
   - GPS 위성 측위 데이터를 활용해 환승 정류장 자동 인식 및 환승 처리를 자동화하는 시스템 설계
   - 담당 역할: 백엔드 로직 설계
 
 ## Skills
 
-### 💻 Programming Language
+### Programming Language
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### 🛰 Geospatial / Remote Sensing Stacks
+### Geospatial / Remote Sensing Stacks
 
 ![GDAL](https://img.shields.io/badge/GDAL-4CAE4C?style=flat-square)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
@@ -75,23 +79,22 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 ![StaMPS](https://img.shields.io/badge/StaMPS-8B4513?style=flat-square)
 ![Rasterio](https://img.shields.io/badge/Rasterio-2E7D32?style=flat-square)
 
-### 📚 ML/DL & Data Stacks
+### ML/DL & Data Stacks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-150458?style=flat-square&logo=Numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🛠 Tools
+### Tools
 
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
-### 📜 Certificates
+### Certificates
 
-- SQLD (SQL 개발자) `[2025.09]`
-- TEPS ``
+- SQLD (SQL 개발자) `2025.09`
+- TEPS 338점 `합격`
 
----
