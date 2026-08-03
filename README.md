@@ -35,6 +35,7 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
   - 평시 변동성 대비 임계값 기반 도복 조건을 설정하고, 위도 보정을 반영한 픽셀 면적 계산으로 실제 피해 면적(ha)까지 정량화
   - Tech: `Python` `Rasterio` `NumPy`
   - [🔗 (https://github.com/seungwoosoon/RVI)]
+  - [🔗 (https://github.com/seungwoosoon/seungwoosoon/blob/main/%5B위성영상처리%5D%20최종%20보고서_최종.docx)]
 
 - **위성·기상·토양 자료 기반 옥수수 수확량 예측 및 토지피복 분류** — 공간정보 인공지능 프로젝트, `2025.S2`
   - MODIS EVI, 강수량, 기온, SMAP 토양수분, VOD 등 다변량 시계열 자료로 county 단위 옥수수 수확량을 Linear/Ridge/Lasso 회귀 및 PCA 기반 차원축소를 통해 예측 (R² 0.79)
