@@ -21,7 +21,7 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 ### Research Projects in Lab (Private)
 
 - **InSAR 기반 지표 변위 분석** — Image Engineering Lab, `2026.03 ~ 2026.06`
-  - Sentinel-1 SAR 위성 영상을 활용한 InSAR 처리(SBAS, DInSAR)로 지반변위 예측의 현실성 검토 및 기하정보 적용 가능성 탐구
+  - Sentinel-1 SAR 위성 영상을 활용한 InSAR 처리(SBAS, PSInSAR, DInSAR)로 지반변위 예측의 현실성 검토 및 기하정보 적용 가능성 탐구
   - Tech: `Python-MintPy` `MATLAB-STAMPS` `ISCE2`
 - **SAR-EO 이미지 매칭 연구** — Image Engineering Lab, `2026.07 ~ 2026.08`
   - 이종 센서(SAR-광학) 영상 간 특징점 기반 정합을 위해 RoMa, RIFT 알고리즘 적용 및 성능 비교
