@@ -47,7 +47,6 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
   - 등산로 주변 인공화재 위험도를 Fuzzy 로직(MATLAB)으로 정량화하고, DEM 기반 지형분석으로 관제탑 후보지 도출
   - Viewshed 분석과 화재위험도 격자의 교차분석을 통해 감시 효율이 높은 후보지 순위 산정
   - Tech: `ArcGIS` `MATLAB`
-  - [report](https://github.com/seungwoosoon/seungwoosoon/blob/main/%5B위성영상처리%5D%20최종%20보고서.pdf)
  
 
 
