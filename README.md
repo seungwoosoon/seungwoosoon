@@ -58,7 +58,7 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 
 - **GPS 위성 기반 버스 자동환승 시스템** — 2025 스페이스 해커톤, 우수상 `2025`
   - GPS 위성 측위 데이터를 활용해 환승 정류장 자동 인식 및 환승 처리를 자동화하는 시스템 설계
-  - 담당 역할: 백엔드 로직 설계
+  - 담당 역할: 백엔드 및 판단 로직 설계
 
 ## Skills
 
