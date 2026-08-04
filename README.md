@@ -96,5 +96,5 @@ I am a data processing engineer who works with satellite imagery (SAR/EO) and ha
 ### Certificates
 
 - SQLD (SQL 개발자) `2025.09`
-- TEPS 338점 `합격`
+- TEPS 338점
 
