@@ -1,4 +1,4 @@
-# Hi, I'm Seungwoo Son
+# Seungwoo Son
 **Satellite Image & Geospatial Data Processing**
 
 ## Contact
