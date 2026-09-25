@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a data processing engineer who works with satellite imagery (SAR/EO) and has a strong interest in SAR image processing.
+I am a data engineer who works with Geo spatial data
 
 ### Education
 
