@@ -2,7 +2,7 @@
 
 # Seungwoo Son
 
-### Geospatial Backend Developer
+### Geospatial Data Developer
 
 
 공간정보 데이터를 가공하고 처리해
