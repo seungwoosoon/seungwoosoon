@@ -1,6 +1,6 @@
 <div align="center">
 
-# 손승우 &nbsp;|&nbsp; Seungwoo Son
+# Seungwoo Son
 
 ### Geospatial Backend Developer
 
