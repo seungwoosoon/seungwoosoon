@@ -1,8 +1,19 @@
-# Seungwoo Son
+<div align="center">
 
-**Geospatial Data Engineer**
+# 손승우 &nbsp;|&nbsp; Seungwoo Son
 
-공간정보 데이터를 가공하고 처리합니다.
+### Geospatial Backend Developer
+
+
+공간정보 데이터를 가공하고 처리해
+효율적으로 유용한 시스템을 만드는 개발자입니다
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/tmddn0927@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmddn0927@gmail.com)
+[![GitHub](https://img.shields.io/badge/seungwoosoon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seungwoosoon)
+
+</div>
 
 ---
 
