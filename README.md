@@ -2,9 +2,7 @@
 
 **Geospatial Data Engineer**
 
-도로망·GPS 궤적·위성영상처럼 성격이 다른 공간 데이터를 수집하고, 일관된 구조로 저장해 서비스에 전달하는 백엔드를 만듭니다.
-
-[tmddn0927@gmail.com](mailto:tmddn0927@gmail.com)
+공간정보 데이터를 가공하고 처리합니다.
 
 ---
 
