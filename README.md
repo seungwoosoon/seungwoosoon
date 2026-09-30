@@ -38,7 +38,7 @@
 
 **Language** Java · Python · C++ · Kotlin
 
-**Tools** Docker · Nginx · Git · Unity
+**Tools** Docker · Nginx · Linux · Git · Unity
 
 ---
 
